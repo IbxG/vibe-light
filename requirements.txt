@@ -1,4 +1,3 @@
-time
 numpy
-cv2
+opencv-python
 mss
