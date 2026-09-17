@@ -1,0 +1,9 @@
+@echo off
+echo Setting up Python environment...
+python -m venv venv
+call venv\Scripts\activate
+echo Installing dependencies...
+pip install -r requirements.txt
+echo Starting the application...
+python src/main.py
+pause
