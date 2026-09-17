@@ -12,4 +12,5 @@ https://www.spacedesk.net/
 
 ## 📱 How to Position Your Devices
 1. Place your old phone/tablet behind your monitor facing the wall.
-2. Run the script and follow the on-screen prompts to connect the screens.
+2. Make sure to rotate your screen depending on the position it may rotate the display. Third party apps can be used to force rotate the display.
+3. Run the script and follow the on-screen prompts to connect the screens.
