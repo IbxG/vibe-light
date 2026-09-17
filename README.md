@@ -3,7 +3,9 @@
 Turn old, dusty phones or tablets into a live ambient backlight that mirrors your PC screen contents in real-time! 
 
 ## 🚀 How to Run It (For Windows)
-1. Install the Spacedesk Client for the host computer and the Spacedesk app on your device (For the lowest input lag use a wired connection with internet turned off on your device). 
+1. Install the Spacedesk Client for the host computer and the Spacedesk app on your device (For the lowest input lag use a wired connection with internet turned off on your device).
+Get the Spacedesk Client from the link:
+https://www.spacedesk.net/
 2. Make sure you have **Python** installed on your Windows PC.
 3. Download this repository as a ZIP file (click the green **Code** button above, then **Download ZIP**) and extract it.
 4. Double-click the `run.bat` file to instantly start the app!
